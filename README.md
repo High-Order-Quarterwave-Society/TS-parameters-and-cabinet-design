@@ -72,7 +72,7 @@ Efficiency and Output: Mms affects the driver's efficiency and output capability
 In Paraflex designs, the Vas (equivalent volume) parameter of the loudspeaker driver is not as crucial as it is in other enclosure types. This is because the quarter-wave resonator relies on the length and geometry of the enclosure to create the desired resonance, rather than the Vas of the driver.
 
 **CMS**
-The Cms (mechanical compliance) parameter is not directly relevant or important in PAraflex designs. The Cms parameter primarily affects the driver's ability to move air and its overall mechanical behavior. However, in a QW design, the resonance is primarily determined by the length and geometry of the resonator, rather than the compliance of the driver.
+The Cms (mechanical compliance) parameter is not directly relevant or important in Paraflex designs. The Cms parameter primarily affects the driver's ability to move air and its overall mechanical behavior. However, in a QW design, the resonance is primarily determined by the length and geometry of the resonator, rather than the compliance of the driver.
 
 **RMS**
 The RMS parameter, also known as the root mean square voltage handling, is not directly relevant or important in Paraflex designs. The RMS parameter specifies the maximum continuous power or voltage that a loudspeaker driver can handle without sustaining damage.
@@ -81,7 +81,7 @@ The RMS parameter, also known as the root mean square voltage handling, is not d
 The Qes parameter, also known as the electrical Q factor of the driver's impedance, is not directly relevant or important in Paraflex designs. The Qes parameter primarily represents the electrical damping of the driver.
 
 
-**Other immportant factors**
+**Other important factors**
 Cone material stength: The cone material needs to be able to withstand these alternating compression and expansion movements without deformation or damage. It should possess sufficient strength and durability to handle the cyclic stress associated with these movements.
 
 
