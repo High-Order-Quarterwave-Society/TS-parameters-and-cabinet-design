@@ -18,7 +18,7 @@ When designing a loudspeaker enclosure, several TS parameters are considered imp
 
 **Sensitivity (SPL):** Sensitivity is a measure of the loudspeaker's efficiency, indicating how much sound output it produces for a given input power. High sensitivity allows for louder output levels with less power. Enclosure designs should consider sensitivity to match the desired system efficiency and required sound pressure levels.
 
-## T/S parameters for Paraflex Designs
+## TS parameters for Paraflex Designs
 In Paraflex designs the VAS is not directly applicable or relevant, since it using the Helmholtz resonator types method. In this type of enclosure, the volume of the cavity and the dimensions: Cross Sectional Area (CSA) of the path (or port) play a crucial role in determining the resonant frequency and the overall performance characteristics. The Helmholtz resonator design focuses on using the air volume and path dimensions to create a specific resonance frequency that reinforces or attenuates certain frequencies in the loudspeaker's response.
 
 While not traditional TS parameters, the characteristics of the loudspeaker driver used in the Helmholtz enclosure can still influence its performance. Parameters such as the driver's impedance curve, resonant frequency (Fs), and sensitivity can affect the overall system response and should be considered during the design process.
