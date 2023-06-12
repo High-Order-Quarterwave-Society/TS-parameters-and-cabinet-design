@@ -85,3 +85,11 @@ The Qes parameter, also known as the electrical Q factor of the driver's impedan
 Cone material stength: The cone material needs to be able to withstand these alternating compression and expansion movements without deformation or damage. It should possess sufficient strength and durability to handle the cyclic stress associated with these movements.
 
 
+# HOQS Optimised drivers for Paraflex designs
+Did you know the HOQS community has developed drivers especially for paraflex designs? The parameters are tuned to perfection for most of the Paraflex Enclosures.
+
+
+**HOQS 21 Inch Neodymium subwoofer**
+
+<img align="center" src="assets/HOQS-N2101-rear.png">
+
