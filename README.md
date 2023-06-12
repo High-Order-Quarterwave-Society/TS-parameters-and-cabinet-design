@@ -1,6 +1,6 @@
-# Thiele Small (T/S) parameters and Paraflex enclosure design
-What is the relation between drivers T/S parameters and loudspeaker enclosure design?
-When designing a loudspeaker enclosure, several TS (Thiele/Small) parameters are considered important for achieving optimal performance. The following are some of the key parameters and their significance in loudspeaker enclosure design:
+# Thiele Small (TS) parameters and Paraflex enclosure design
+What is the relation between drivers TS parameters and loudspeaker enclosure design?
+When designing a loudspeaker enclosure, several TS parameters are considered important for achieving optimal performance. The following are some of the key parameters and their significance in loudspeaker enclosure design:
 
 **Resonant frequency (Fs):** This parameter represents the frequency at which the loudspeaker's mechanical and electrical characteristics combine to produce maximum output. The enclosure design should aim to provide proper support and control around this frequency to ensure efficient and accurate sound reproduction.
 
